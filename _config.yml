@@ -1,0 +1,15 @@
+typography_spectrum: 0.3459915064740926
+color:
+  brandStrength: 0.21997525938786566
+  lightness: 0.16696812072768807
+  saturation: 0.37942784489132464
+  rhythmicContrast: 0.0795675884000957
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+github: true
+layout_spectrum: 0.8743435565847903
+name: My Aspiration
